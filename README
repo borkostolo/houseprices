@@ -1,0 +1,5 @@
+doc: 	documentation
+test: 	test environment files
+dev: 	development area, codes, scripts etc.
+data: 	input data files
+
